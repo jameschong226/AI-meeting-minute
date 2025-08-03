@@ -1,0 +1,7 @@
+{
+  "name": "AI Meeting Note Assistant",
+  "description": "Automatically transcribes meeting audio or video, then summarizes the content into concise notes, including action items, discussion highlights, and follow-ups.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
